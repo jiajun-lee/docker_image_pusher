@@ -2,3 +2,4 @@ alpine
 kasmweb/nginx:1.25.3
 developer024/networkdownload
 docker.io/zerotier/zerotier
+ghostry/smartdns

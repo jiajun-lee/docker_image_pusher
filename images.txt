@@ -5,4 +5,4 @@ docker.io/zerotier/zerotier
 ghostry/smartdns
 threathunterx/nebula_sniffer
 744287383/alpine_kuaicdn
-qiuchenjun/hgdb-crts
+jayfong/auto-sslcert

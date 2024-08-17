@@ -4,3 +4,4 @@ developer024/networkdownload
 docker.io/zerotier/zerotier
 ghostry/smartdns
 threathunterx/nebula_sniffer
+744287383/alpine_kuaicdn

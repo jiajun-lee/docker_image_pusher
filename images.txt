@@ -6,3 +6,4 @@ ghostry/smartdns
 threathunterx/nebula_sniffer
 744287383/alpine_kuaicdn
 jayfong/auto-sslcert
+jeessy/ddns-go

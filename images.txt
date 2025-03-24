@@ -8,3 +8,4 @@ threathunterx/nebula_sniffer
 jayfong/auto-sslcert
 jeessy/ddns-go
 linkease/webvirtcloud:0.3.6
+aipan-netdisk-search
